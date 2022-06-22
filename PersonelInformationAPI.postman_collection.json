@@ -1,0 +1,400 @@
+{
+	"info": {
+		"_postman_id": "27036a8e-7005-4d25-8433-e1592516ce59",
+		"name": "PersonelInformationAPI",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "20638391"
+	},
+	"item": [
+		{
+			"name": "Information",
+			"item": [
+				{
+					"name": "GetInformation",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:5001/api/Information",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"Information"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PostInformation",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"personelName\": \"Burak\",\r\n  \"personelSurname\": \"Özen\",\r\n  \"detailInformationID\": 1,\r\n  \"personelInformationID\": 2\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:5001/api/Information",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"Information"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetInformationID",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"informationID\": 4,\r\n  \"personelName\": \"Engin\",\r\n  \"personelSurname\": \"Ergül\",\r\n  \"detailInformationID\": 1,\r\n  \"personelInformationID\": 2\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:5001/api/Information/5",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"Information",
+								"5"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PutInformation",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"informationID\": 4,\r\n  \"personelName\": \"Engin\",\r\n  \"personelSurname\": \"Ergül\",\r\n  \"detailInformationID\": 1,\r\n  \"personelInformationID\": 2\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:5001/api/Information/5",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"Information",
+								"5"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "DeleteInformation",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:5001/api/Information/4",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"Information",
+								"4"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "DetailInformation",
+			"item": [
+				{
+					"name": "GetDetail",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:5001/api/DetailInformation",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"DetailInformation"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PostDetail",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"fatherName\": \"Sefa\",\r\n  \"motherName\": \"Dilara\",\r\n  \"birthPlace\": \"Çanakkale\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:5001/api/DetailInformation",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"DetailInformation"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetDetailID",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:5001/api/DetailInformation/4",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"DetailInformation",
+								"4"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PutDetail",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"detailInformationID\": 4,\r\n  \"fatherName\": \"Hasan\",\r\n  \"motherName\": \"Müge\",\r\n  \"birthPlace\": \"İzmir\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:5001/api/DetailInformation/4",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"DetailInformation",
+								"4"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "DeleteDetail",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:5001/api/DetailInformation/4",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"DetailInformation",
+								"4"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "PersonelInformation",
+			"item": [
+				{
+					"name": "GetPersonelInfo",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:5001/api/PersonelInformation",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"PersonelInformation"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PostPersonelInfo",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"ciltNo\": 23,\r\n  \"aileSiraNo\": 43,\r\n  \"title\": \"Bakkal\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:5001/api/PersonelInformation",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"PersonelInformation"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetPersonelInfoByID",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:5001/api/PersonelInformation/4",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"PersonelInformation",
+								"4"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PutPersonelInfo",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"personelInformationID\": 4,\r\n  \"ciltNo\": 32,\r\n  \"aileSiraNo\": 53,\r\n  \"title\": \"Kasap\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:5001/api/PersonelInformation/4",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"PersonelInformation",
+								"4"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "DeletePersonelInfo",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:5001/api/PersonelInformation/4",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"PersonelInformation",
+								"4"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}

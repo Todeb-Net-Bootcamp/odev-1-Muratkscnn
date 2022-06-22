@@ -1,0 +1,24 @@
+C:\Users\MK\Desktop\Yeni Klasör\Personalinformation-master (1)\Personalinformation-master\Personelinformation.Entity\bin\Debug\net5.0\Personelinformation.Entity.deps.json
+C:\Users\MK\Desktop\Yeni Klasör\Personalinformation-master (1)\Personalinformation-master\Personelinformation.Entity\bin\Debug\net5.0\Personelinformation.Entity.dll
+C:\Users\MK\Desktop\Yeni Klasör\Personalinformation-master (1)\Personalinformation-master\Personelinformation.Entity\bin\Debug\net5.0\Personelinformation.Entity.pdb
+C:\Users\MK\Desktop\Yeni Klasör\Personalinformation-master (1)\Personalinformation-master\Personelinformation.Entity\obj\Debug\net5.0\Personelinformation.Entity.csproj.AssemblyReference.cache
+C:\Users\MK\Desktop\Yeni Klasör\Personalinformation-master (1)\Personalinformation-master\Personelinformation.Entity\obj\Debug\net5.0\Personelinformation.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MK\Desktop\Yeni Klasör\Personalinformation-master (1)\Personalinformation-master\Personelinformation.Entity\obj\Debug\net5.0\Personelinformation.Entity.AssemblyInfoInputs.cache
+C:\Users\MK\Desktop\Yeni Klasör\Personalinformation-master (1)\Personalinformation-master\Personelinformation.Entity\obj\Debug\net5.0\Personelinformation.Entity.AssemblyInfo.cs
+C:\Users\MK\Desktop\Yeni Klasör\Personalinformation-master (1)\Personalinformation-master\Personelinformation.Entity\obj\Debug\net5.0\Personelinformation.Entity.csproj.CoreCompileInputs.cache
+C:\Users\MK\Desktop\Yeni Klasör\Personalinformation-master (1)\Personalinformation-master\Personelinformation.Entity\obj\Debug\net5.0\Personelinformation.Entity.dll
+C:\Users\MK\Desktop\Yeni Klasör\Personalinformation-master (1)\Personalinformation-master\Personelinformation.Entity\obj\Debug\net5.0\ref\Personelinformation.Entity.dll
+C:\Users\MK\Desktop\Yeni Klasör\Personalinformation-master (1)\Personalinformation-master\Personelinformation.Entity\obj\Debug\net5.0\Personelinformation.Entity.pdb
+C:\Users\MK\Desktop\Yeni Klasör\Personalinformation-master (1)\Personalinformation-master\Personelinformation.Entity\obj\Debug\net5.0\refint\Personelinformation.Entity.dll
+C:\Users\MK\Desktop\Yeni Klasör\odev-1-Muratkscnn\Personelinformation.Entity\bin\Debug\net5.0\Personelinformation.Entity.deps.json
+C:\Users\MK\Desktop\Yeni Klasör\odev-1-Muratkscnn\Personelinformation.Entity\bin\Debug\net5.0\Personelinformation.Entity.dll
+C:\Users\MK\Desktop\Yeni Klasör\odev-1-Muratkscnn\Personelinformation.Entity\bin\Debug\net5.0\ref\Personelinformation.Entity.dll
+C:\Users\MK\Desktop\Yeni Klasör\odev-1-Muratkscnn\Personelinformation.Entity\bin\Debug\net5.0\Personelinformation.Entity.pdb
+C:\Users\MK\Desktop\Yeni Klasör\odev-1-Muratkscnn\Personelinformation.Entity\obj\Debug\net5.0\Personelinformation.Entity.csproj.AssemblyReference.cache
+C:\Users\MK\Desktop\Yeni Klasör\odev-1-Muratkscnn\Personelinformation.Entity\obj\Debug\net5.0\Personelinformation.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MK\Desktop\Yeni Klasör\odev-1-Muratkscnn\Personelinformation.Entity\obj\Debug\net5.0\Personelinformation.Entity.AssemblyInfoInputs.cache
+C:\Users\MK\Desktop\Yeni Klasör\odev-1-Muratkscnn\Personelinformation.Entity\obj\Debug\net5.0\Personelinformation.Entity.AssemblyInfo.cs
+C:\Users\MK\Desktop\Yeni Klasör\odev-1-Muratkscnn\Personelinformation.Entity\obj\Debug\net5.0\Personelinformation.Entity.csproj.CoreCompileInputs.cache
+C:\Users\MK\Desktop\Yeni Klasör\odev-1-Muratkscnn\Personelinformation.Entity\obj\Debug\net5.0\Personelinformation.Entity.dll
+C:\Users\MK\Desktop\Yeni Klasör\odev-1-Muratkscnn\Personelinformation.Entity\obj\Debug\net5.0\ref\Personelinformation.Entity.dll
+C:\Users\MK\Desktop\Yeni Klasör\odev-1-Muratkscnn\Personelinformation.Entity\obj\Debug\net5.0\Personelinformation.Entity.pdb
